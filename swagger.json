@@ -5,9 +5,9 @@
     "description" : "Move your app forward with the Uber API",
     "version" : "1.0.0"
   },
-  "host" : "api.uber.com",
+  "host" : "swaggerhub.com",
   "schemes" : [ "https" ],
-  "basePath" : "/",
+  "basePath" : "/f7q/test/1.0.0",
   "produces" : [ "application/json" ],
   "paths" : {
     "/products" : {
