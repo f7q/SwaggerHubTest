@@ -5,9 +5,9 @@
     "description" : "SwaggerHub app Learning with the SwaggerHubLearning API",
     "version" : "1.0.0"
   },
-  "host" : "swaggerhub.com",
+  "host" : "app.swaggerhub.com",
   "schemes" : [ "https" ],
-  "basePath" : "/apis/f7q/test/1.0.0",
+  "basePath" : "/api/f7q/test/1.0.0",
   "produces" : [ "application/json" ],
   "paths" : {
     "/products" : {
